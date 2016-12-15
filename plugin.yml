@@ -1,0 +1,6 @@
+name: TaskAPIExamplePlugin
+main: TaskAPIExamplePlugin\Main
+version: 1.0
+author: xBeastMode
+api: 2.0.0
+description: For Lazy PocketMine Plugin Developers!
