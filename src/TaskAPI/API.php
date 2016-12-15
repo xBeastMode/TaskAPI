@@ -34,7 +34,7 @@ final class API{
     /**
      * @param $task_name
      */
-    public function unPauseTask($task_name){
+    public function resumeTask($task_name){
         $this->tasks[$task_name]->setPaused(false);
     }
     /**
